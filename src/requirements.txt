@@ -8,4 +8,4 @@ crispy-bootstrap4
 whitenoise
 opencensus-ext-azure
 opencensus-ext-django
-psycopg2
+mysql-connector-python
