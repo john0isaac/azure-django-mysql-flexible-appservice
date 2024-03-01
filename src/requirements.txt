@@ -9,4 +9,3 @@ whitenoise
 opencensus-ext-azure
 opencensus-ext-django
 mysqlclient
-mysql-connector-python
